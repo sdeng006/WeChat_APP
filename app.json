@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "page/navigation/index/navigation",
+    
+    "page/tools/index/tools",
+
+    "page/cssa/index/cssa"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "UCR-CSSA-title",
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#35495e",
+    "backgroundColor": "#fbf9fe"
+  },
+  "tabBar": {
+    "color": "#dddddd",
+    "selectedColor": "#2d6cc0",
+    "borderStyle": "black",
+    "backgroundColor": "#35495e",
+    "list": [
+      {
+        "pagePath": "page/navigation/index/navigation",
+        "iconPath": "image/belltowerGR.png",
+        "selectedIconPath": "image/belltower.png",
+        "text": "校园导航"
+      },
+      {
+        "pagePath": "page/tools/index/tools",
+        "iconPath": "image/bookGR.png",
+        "selectedIconPath": "image/book.png",
+        "text": "实用工具"
+      },
+      {
+        "pagePath": "page/cssa/index/cssa",
+        "iconPath": "image/CSSAGR.png",
+        "selectedIconPath": "image/CSSAa.png",
+        "text": "学联优惠"
+      }
+    ]
+  },
+  "debug": true
+}
