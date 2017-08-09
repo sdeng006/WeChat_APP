@@ -1,2 +1,8 @@
 <!--page/cssa/index/cssa.wxml-->
-<text>page/cssa/index/cssa.wxml</text>
+<view class = "index">
+    <view class = "head">
+        <view class="title">这里的页面将会显示CSSA优惠合作商家</view>
+        <view class="desc">比如黄记煌和虾闹</view>
+        <view class="desc">To be continue...</view>
+    </view>
+</view>
