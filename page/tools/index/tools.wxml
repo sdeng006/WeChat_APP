@@ -1,2 +1,8 @@
 <!--page/tools/index/tools.wxml-->
-<text>page/tools/index/tools.wxml</text>
+<view class="index">
+    <view class="head">
+        <view class="title">这里的页面将会显示河村实用工具</view>
+        <view class="desc">例如巴士时间表和课程表</view>
+        <view class="desc">To be continue...</view>
+    </view>
+</view>
