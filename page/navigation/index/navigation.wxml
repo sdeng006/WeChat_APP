@@ -1,2 +1,8 @@
 <!--page/navigation/index/navigation.wxml-->
-<text>这里的功能定义时显示学校周边地图</text>
+<view class = "index">
+    <view class="head">
+        <view class="title">这里的页面将显示学校周边地图</view>
+        <view class="desc">以及各种建筑注释，甚至可能导航</view>
+        <view class="desc">To be continue...</view>
+    </view>
+</view>
