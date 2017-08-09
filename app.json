@@ -8,14 +8,14 @@
   ],
   "window": {
     "navigationBarTextStyle": "white",
-    "navigationBarTitleText": "UCR-CSSA-title",
+    "navigationBarTitleText": "CSSA小助手",
     "backgroundTextStyle": "dark",
     "navigationBarBackgroundColor": "#35495e",
     "backgroundColor": "#fbf9fe"
   },
   "tabBar": {
-    "color": "#dddddd",
-    "selectedColor": "#2d6cc0",
+    "color": "#bdbdbd",
+    "selectedColor": "#ffffff",
     "borderStyle": "black",
     "backgroundColor": "#35495e",
     "list": [
